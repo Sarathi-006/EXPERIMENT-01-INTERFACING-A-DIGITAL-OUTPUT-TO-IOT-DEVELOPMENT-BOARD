@@ -1,14 +1,10 @@
 # EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD
 
 
-**DATE:**
-17.3.25
-**NAME:**
-PARTHASARATHI S
-**ROLL NO:**
-212223040144
-**DEPARTMENT:**
-CSE
+**DATE:**17.3.25
+**NAME:**PARTHASARATHI S
+**ROLL NO:**212223040144
+**DEPARTMENT:**CSE
 ## Aim
 
 To Interface a Digital output (LED) to ARM IOT development board and write a program to blink an LED.
